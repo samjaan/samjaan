@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @samjaan
+- 🌱 I’m currently learning - Web Development 
